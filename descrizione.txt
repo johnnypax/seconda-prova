@@ -1,1 +1,2 @@
-Ciao, sono Giovanni Pace e mi piace la programmazione
+Ciao, sono Giovanni Pace e mi piace la programmazione.
+Ho fatto delle operazioni su Git
